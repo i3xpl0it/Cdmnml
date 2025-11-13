@@ -6,14 +6,14 @@ import { AboutMe } from "./components/AboutMe";
 import { GridGlow } from "./components/GridGlow";
 import { motion, AnimatePresence } from "motion/react";
 import { Brain, Database, Code2, Cpu, Sparkles, MessageSquare } from "lucide-react";
-import img1 from "figma:asset/2e0d13ebf480faa749bfed9eb549ffe23de5bd0a.png";
-import img2 from "figma:asset/449020eb383f5fed41447ff590fd0a6254909f5b.png";
-import img3 from "figma:asset/7f04693ea59eb4b7326502fca29a50480cdd51b8.png";
-import img4 from "figma:asset/55416daa7edf2d10cb8d860c283037c9f539a527.png";
-import img5 from "figma:asset/d850f42c94225cb41e0ed93f7fcb5b3e5992eb56.png";
-import img6 from "figma:asset/d9fbf11382a78f06cfba6b3929efbf069b2dc4a7.png";
-import img7 from "figma:asset/f954603759d2e257024e914bd4c6a084855a5241.png";
-import logoDark from "figma:asset/19a4837dddb66b15137045c187e717c259abf5a8.png";
+import img1 from "./assets/2e0d13ebf480faa749bfed9eb549ffe23de5bd0a.png";
+import img2 from "./assets/449020eb383f5fed41447ff590fd0a6254909f5b.png";
+import img3 from "./assets/7f04693ea59eb4b7326502fca29a50480cdd51b8.png";
+import img4 from "./assets/55416daa7edf2d10cb8d860c283037c9f539a527.png";
+import img5 from "./assets/d850f42c94225cb41e0ed93f7fcb5b3e5992eb56.png";
+import img6 from "./assets/d9fbf11382a78f06cfba6b3929efbf069b2dc4a7.png";
+import img7 from "./assets/f954603759d2e257024e914bd4c6a084855a5241.png";
+import logoDark from "./assets/19a4837dddb66b15137045c187e717c259abf5a8.png";
 
 // Data Science & Python Projects for Work
 const workProjects = [
